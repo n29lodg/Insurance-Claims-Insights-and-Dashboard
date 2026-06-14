@@ -1,0 +1,36 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "VSCode_connection",
+            "database": "Insurance_Claims_Portfolio",
+            "username": "Nick0529"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "database": "Insurance_Claims_portfolio",
+            "name": "VSCODE_Upload",
+            "username": "Nick0529",
+            "password": ""
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Claims_Portfolio",
+            "database": "Insurance_claims_portfolio",
+            "username": "postgres"
+        }
+    ]
+}
